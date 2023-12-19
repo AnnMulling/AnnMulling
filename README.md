@@ -1,3 +1,16 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="300"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/primpraow-m-653708227/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+<div id="views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=AnnMullinge&style=flat-square&color=orange" alt=""/>
+</div>
+
 ### Hi there 👋
 
 <!--
