@@ -24,12 +24,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="info">
+   <h3> About Me </h3>
    <div> 📍  I'm based in Chicago, IL, USA</div>
    <div> 👀  See my portfolio 🌟 https://annmulling.github.io/</div>
    <div> 📫  How to reach me: primpraowann@gmail.com</div>
    <div> 💻  I'm currently working on https://cultivate-project.onrender.com </div>
    <div> 💬  I speak Thai and English</div>
    <div> 🍪🍰🥧🧁 I'm very much a baker when I'm not coding.. </div>
+</div>
+<div>
+  <h3>My Projects</h3>
+  <div> 🪄https://cultivate-project.onrender.com </div>
+  <div> 🪄 https://api-aribnb-project.onrender.com </div>
 </div>
 
 <!--
