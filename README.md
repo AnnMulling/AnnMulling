@@ -10,8 +10,9 @@
 <div id="skills">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,aws," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,express,react,redux,flask,sequelize,git,aws,figma,ps,ai,&perline=4" />
   </a>
+ 
 </p>
 </div>
 <div id="views" align="center">
@@ -25,6 +26,7 @@
 <div id="info">
    <div> 📍  I'm based in Chicago, IL, USA</div>
    <div> 👀  See my portfolio 🌟 https://annmulling.github.io/</div>
+   <div> 📫  How to reach me: primpraowann@gmail.com</div>
    <div> 💻  I'm currently working on https://cultivate-project.onrender.com </div>
    <div> 💬  I speak Thai and English</div>
    <div> 🍪🍰🥧🧁 I'm very much a baker when I'm not coding.. </div>
