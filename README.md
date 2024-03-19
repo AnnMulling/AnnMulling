@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  Hi there I'm Ann, nice to meet you!
+  Hi there I'm Ann!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -17,7 +17,7 @@
   <h2 align="center">Skills & Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,express,react,redux,flask,sequelize,git,aws,figma,ps,ai,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,express,react,redux,flask,sequelize,git,figma,ps,ai,sass,&perline=5" />
   </a>
 </p>
   
@@ -38,7 +38,7 @@
 </div>
 <div>
   <h3>My Projects</h3>
-  <div> 🪄https://cultivate-project.onrender.com </div>
+  <div> 🪄 https://cultivate-project.onrender.com </div>
   <div> 🪄 https://api-aribnb-project.onrender.com </div>
 </div>
 
