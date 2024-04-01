@@ -30,11 +30,13 @@
 <div id="info">
    <h3> About Me </h3>
    <div> 📍  I'm based in Chicago, IL, USA</div>
-   <div> 👀  See my portfolio 🌟 https://annmulling.github.io/</div>
-   <div> 📫  How to reach me: primpraowann@gmail.com</div>
-   <div> 💻  I'm currently working on https://cultivate-project.onrender.com </div>
    <div> 💬  I speak Thai and English</div>
-   <div> 🍪🍰🥧🧁 I'm very much a baker when I'm not coding.. </div>
+   <div> 👀  See my <a href="https://annmulling-portfolio.netlify.app/work">🌟portfolio</a></div>
+   <div> 📫  How to reach me: <a href="mailto:primpraowann@gmail.com">✉</a></div>
+   <div> 💻  I'm currently working on https://cultivate-project.onrender.com </div>
+   <div> 💖  I'm currently volunteering with <a href="https://github.com/Heal-Me-Non-Profit-Organisation"> the Heal Me Non-Profit Organization</a></div>
+  
+  <div> 🍪🍰🥧🧁 I'm very much a baker when I'm not coding... </div>
 </div>
 <div>
   <h3>My Projects</h3>
