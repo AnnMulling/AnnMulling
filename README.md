@@ -38,7 +38,6 @@
    <div> 💬  I speak Thai and English</div>
    <div> 👀  See my <a href="https://annmulling-portfolio.netlify.app" target="_blank">🌟portfolio</a></div>
    <div> 📫  How to reach me: <a href="mailto:primpraowann@gmail.com" target="_blank">✉</a></div>
-   <div> 💖  I'm currently volunteering with <a href="https://github.com/Heal-Me-Non-Profit-Organisation" target="_blank"> the Heal Me Non-Profit Organization</a></div> 
 </div>
 
 <!-- Learning  & hobby -->
