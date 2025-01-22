@@ -42,7 +42,7 @@
 
 <!-- Learning  & hobby -->
 <div id="learning">
-     <div> 💻🌱  I'm currently learning  Swift <img src="https://skillicons.dev/icons?i=swift" width="20px" height="20px"/> && SwiftUI </div>
+     <div> 💻🌱  I'm currently learning Django <img src="https://skillicons.dev/icons?i=django" width="25px" height="25px"/></div>
  </div>
    
 <div id="hobby">
